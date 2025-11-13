@@ -1,3 +1,8 @@
 git lab 1
+
 git lab 2
 git lab 3
+
+git lab 2//fetch rebase
+git lab 3//local machine
+
